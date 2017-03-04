@@ -1,0 +1,48 @@
+.searchContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 600px;
+}
+
+.userSearchDisplayInfo {
+  max-width: 250px;
+  text-align: justify;
+}
+
+.userSearchDisplayInfo h2 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.userSearchDisplayInfo h4 {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.rightSectionContainer {
+  max-width: 400px;
+}
+
+.searchFriendsInput {
+  margin-bottom: 25px;
+}
+
+.searchFriendsInput h2 {
+  font-size: 20px;
+}
+
+.friendAvatarDisplay {
+ display: flex;
+ flex-wrap: wrap;
+}
+
+.avatars {
+  background-color: grey;
+  color: grey;
+  height: 125px;
+  width: 125px;
+  margin: 5px;
+}
