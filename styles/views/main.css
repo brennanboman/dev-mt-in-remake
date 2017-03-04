@@ -1,0 +1,38 @@
+.topNav {
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+}
+
+.topNav h2 {
+  cursor: pointer;
+}
+
+.navSearchIcon {
+  height: 30px;
+  width: 30px;
+  background-color: black;
+}
+
+.dmHomeScreenButton {
+
+}
+
+.hamburgerMenu {
+  height: 30px;
+  width: 30px;
+  background: black;
+}
+
+.bottom-nav {
+  border-top: 1px solid lightgrey;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.bottom-nav p {
+  cursor: pointer;
+}

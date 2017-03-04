@@ -1,0 +1,38 @@
+.profileUpdateContainer {
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ height: 600px;
+}
+
+.profileUpdateInputs {
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+
+}
+
+.profileUpdateInputs input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.profileUpdateInputs button {
+  margin-top: 5px;
+}
+
+.userProfileInfo {
+  max-width: 250px;
+  margin-left: 100px;
+  text-align: justify;
+}
+
+.userProfileInfo h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.userProfileInfo h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

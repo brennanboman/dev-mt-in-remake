@@ -1,0 +1,26 @@
+.initialContainer {
+  display: flex;
+  background-color: white;
+  justify-content: space-around;
+  align-items: center;
+  height: 600px;
+}
+
+.join {
+  display: flex;
+  flex-direction: column;
+}
+
+.join input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.join button {
+  margin-top: 5px;
+  background-color: #74FDF2;
+}
+
+.initialLogoRight {
+
+}
